@@ -1,0 +1,13 @@
+CollisionShape2D
+Node
+TileMapLayer
+Sprite2D
+Timer
+AnimationPlayer
+AnimationTree
+Camera2D
+AnimatedSprite2D
+TileMap
+LightOccluder2D
+DirectionalLight2D
+CharacterBody2D
