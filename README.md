@@ -16,7 +16,7 @@ A top-down rogue-lite with advanced movement and collision mechanics (In Progres
 - **WASD** — Move / Walk  
 - **Shift** — Charge attack  
 - **Right Click or Shift (while charging)** — Slide / Exit charge  
-- **Hold Shift (while charging)** — Maintain momentum (Note: you must release shift after charging then press again and hold)
+- **Hold Shift (while charging)** — Maintain momentum (Note: you must release shift after charging, then press again and hold)
 
 ## How to Run
 1. Download the latest `Corn.exe` from the Releases section.
