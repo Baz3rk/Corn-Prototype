@@ -1,0 +1,23 @@
+# Build / Executable files
+*.exe
+*.app
+*.dmg
+*.zip
+build/
+export/
+dist/
+
+# Temporary / Cache files
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# Godot / Unity common ignores
+.import/
+export_presets.cfg
+*.godot
+
+# OS junk
+.DS_Store
+Thumbs.db
